@@ -1,6 +1,6 @@
 # Terminalowy Menedżer Biblioteki
 
-Wymagania: **Java 21**, **Maven 3.9+**
+Wymagania: Java 17, Maven 3.9+
 
 ## Uruchomienie
 
